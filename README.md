@@ -1,0 +1,2 @@
+# LoanAssistant
+Java project
